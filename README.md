@@ -4,7 +4,7 @@ Create an app which represents all OTT platforms such as Netflix, Amazon Prime, 
 
 ## Screenshot
 
-<img width="300" height="600" src="https://user-images.githubusercontent.com/113745196/196651973-f7336bdd-4a50-4083-8c82-1298b40e7a6c.jpg">    <img width="300" height="600" src="https://user-images.githubusercontent.com/113745196/196651990-5981844c-5979-4073-b404-fa2144637014.jpg"> 
+<img width="300" height="600" src="https://user-images.githubusercontent.com/113745196/196941618-c9197c47-b8b0-4220-86e4-a9b77d137d92.jpg">    <img width="300" height="600" src="https://user-images.githubusercontent.com/113745196/196941640-9072ea33-9c6c-4d68-a73b-a10977e86ebc.jpg"> 
 
 <br><br><br>
 
