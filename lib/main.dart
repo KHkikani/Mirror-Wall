@@ -24,7 +24,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Educational websites"),
+        title: const Text("OTT Platfrom Websites"),
         centerTitle: true,
         elevation: 0,
       ),
